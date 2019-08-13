@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Instrucciones
 
 1. Edita el archivo pw2-e1.html y agrega las etiquetas necesarias que definan la estructura básica de un documento HTML5. 
 2. Copia el contenido del archivo [himno-nacional-mexicano.txt](himno-nacional-mexicano.txt) y pégalo en el cuerpo del documento.
